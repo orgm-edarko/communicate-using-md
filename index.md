@@ -6,3 +6,10 @@ We'd be learning GitHub Markdown today; sounds interesting innit?
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Yaktocat
+
+## Adding Code blocks
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
